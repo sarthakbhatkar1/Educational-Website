@@ -1,0 +1,16 @@
+.joinnow
+{
+    background-color: #eff6ff;
+    padding: 150px 250px;
+}
+
+.login
+{
+    background-color: #ffffff;
+    padding: 20px 30px;
+}
+
+@media screen and (max-width:600px)
+{
+    padding: 140px 30px;
+}

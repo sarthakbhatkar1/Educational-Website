@@ -1,0 +1,32 @@
+.follow a
+{
+    padding: 10px;
+    color:#000000;
+    font-weight: bold;
+}
+
+.image-lostvayne
+{
+    padding: 10px;
+    height: 5%;
+}
+
+
+.footer
+{
+    position: relative;
+}
+
+#bottom
+{
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+@media screen and (max-width:600px) {
+  .follow a {
+    padding: 5px;
+    
+  }
+}
+
